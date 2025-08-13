@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Sumith+Thota;I'm+a+Software+Developer.;+OpenSource+Contributor.;+Frontend+Developer.;%E2%9D%A4%EF%B8%8F+%7C+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Ashok +G;I'm+a+Software+Developer.;+OpenSource+Contributor.;+Frontend+Developer.;%E2%9D%A4%EF%B8%8F+%7C+;)](https://git.io/typing-svg)
 </div>
 
 <!-- About Me -->
